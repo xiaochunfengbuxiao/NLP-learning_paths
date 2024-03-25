@@ -1,0 +1,31 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <wu@ccert.edu.cn>; Fri, 2 Sep 2005 01:03:14 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Fri, 2 Sep 2005 01:34:43 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Fri, 2 Sep 2005 01:15:48 +0800
+From: "bai" <bai@mail.nisac.gov.cn>
+Reply-To: bai@mail.nisac.gov.cn
+To: wu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+vOykJpdENvbWV01tC0+sDtyOe6zsno1sMgKNeq1Ngp?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+【   以下 文字 转载自   NewSoftware   讨论区   】
+发信人 :   NewSamuel   ( tomy ) ,   信 区 :   NewSoftware
+标     题 :   请问 BitComet 中 代理 如何 设置
+使用版 上 的 代理 ， 可以 上 国外 的 网站 ；
+但是 如果 使用 BitComet ， 则 总是 无法 连接 上 国外 的
+tracker 网站 。 如果 直接 用 Tunet 开放 登陆 则 可以 连 上 。
+在 BitComet 中 设置 代理 时 需要 指定
+代理 的 类型 有 Sock5 , sock4 , sock4a , http1.1
+请问 这些 代理 类型 有何 不同 ， 应 如何 设置 ？
+如果 使用 的 代理 是 端口 为 80 , 8080 应 设置 那个 类型 呢 ?
+谢谢 ！

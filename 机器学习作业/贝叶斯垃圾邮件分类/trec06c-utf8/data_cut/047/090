@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <xia@ccert.edu.cn>; Sat, 27 Aug 2005 08:15:34 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 08:33:54 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 08:33:54 +0800
+Date: Sat, 27 Aug 2005 08:33:54 +0800
+From: hong@cernet.com
+Subject: =?gb2312?B?ofEgvfS8scfz1vo6ztK1xG9mZmljZTIwMDPW0HdvcmSx4MLrzsrM4iE=?=
+To: xia@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+我 的 word 使用 一直 没有 问题 , 写文章 时装 了 ENDNOTE ,   一个 查 文献 和 文献 管理 的 软件 , 可以 自动 在 word 中 插入 文献 , 非常 方便 . 当时 我 的 ENDNOTE 不熟 , 也 不 知道 弄 的 , 现在 我 每次 打开 word , 我 的 word 中 的 插入 文献 都 以 一种 我 说不清楚 的 编码 显示 了 , 我 选中 后 按 右键 选择 切换 域 代码 才能 变回 我 想要 的 样子 . 后来 我 发现 凡是 我 在 word 中 引入 的 其他 程序编制 的 图片 资料 表格 都 以 某种 编码 显示 ,
+如下 所示 :
+这是 插入 文献 位置 所 显示 的 , 本来 应该 是 显示 ( 1 ) 的 . 现在 显示 如下 , 只有 切换 域 代码 后 才能 换过来 .
+ADDIN   EN . CITE   & lt ; EndNote & gt ; & lt ; Cite & gt ; & lt ; Author & gt ; Numazawa & lt ; / Author & gt ; & lt ; Year & gt ; 1996 & lt ; / Year & gt ; & lt ; RecNum & gt ; 63 & lt ; / RecNum & gt ; & lt ; record & gt ; & lt ; rec - number & gt ; 63 & lt ; / rec - number & gt ; & lt ; ref - type   name = \ ' Journal   Article \ ' & gt ; 17 & lt ; / ref - type & gt ; & lt ; contributors & gt ; & lt ; authors & gt ; & lt ; author & gt ; Numazawa ,   S .& lt ; / author & gt ; & lt ; author & gt ; Inoue ,   N .& lt ; / author & gt ; & lt ; .....
+这是
+{ EMBED   CHEMDRAW . DOCUMENT.6 . 0 } 本来 应该 显示 我 以前 用 化学 软件 chemdraw 做 的 化学 结构式 图 , 现在 却 显示 这个 . 因为 把 软件 卸载 了 , 转换 都 没得 转换 了 .
+这是 插入 的 excel 表格 的 显示 , 不能 显示 表格 .
+{ EMBED   EXCEL . SHEET8 }
+我 重装 了 OFFICE , 还是 不能 解决问题 , 高手 指点 一下 , 谢谢 !

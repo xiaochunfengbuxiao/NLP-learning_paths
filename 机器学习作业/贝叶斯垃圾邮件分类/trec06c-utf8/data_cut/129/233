@@ -1,0 +1,31 @@
+Received: from sendmail.iclp.com.hk (sendmail.iclp.com.hk [203.193.56.98])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8D9HfCC018617
+	for <xie@ccert.edu.cn>; Wed, 14 Sep 2005 08:31:30 +0800 (CST)
+Received: from ebpc1 ([192.168.17.111])
+	by sendmail.iclp.com.hk (8.11.6/8.11.6) with SMTP id j8DNBbb24415
+	for <xie@ccert.edu.cn>; Wed, 14 Sep 2005 09:25:21 -0500
+thread-index: AcW4RY0OBhyKhSqsSemwSUmiAKaPGg==
+Thread-Topic: =?gb2312?B?SnVuaXBlcs34wue5q8u+0dC+v7rNvczT/bv6ubnNqNG2MjAwNcTqOdTC?=
+Reply-To: <ma@apac-juniper.net>
+From: "ma" <ma@apac-juniper.net>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvK/dGnXbnY09q5pMjL0N7A7bv6xve1xNXiuPa4xcLKzsrM4n5+fn7T0MjLsO/O0r+0v7TC
+8KM=?=
+Date: Wed, 14 Sep 2005 08:42:31 +0800
+Message-ID: <8c3801c5b845$8d1d0270$6f11a8c0@ebpc1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_8C39_01C5B888.9B404270"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+第一 问 其实 问 的 就是 ， 当 配备 n 个 工人 的 时候 ， 同时 发生 故障 的 机器 数 不 超过 n 的 概率 为 0.01
+由题 设 可知 机器 故障 台数 服从 B ( 300 ， 0.01 ) 的
+第二 问 就是 已知 n 求 概率
+为了 保证 设备 正常 工作 ， 需要 配备 适量 的 维修 工人 ， 现有 同一 类型 的 设备 300 台 ， 各台 设备 工作 相互 独立 ， 发生 鼓掌 的 概率 是 0.01 ， 在 通常 情况 下 ， 一台 设备 的 故障 可以 由 一个 工人 处理 。
+（ 1 ）   问 至少 需要 配备 多少 工人 ， 才能 保证 设备 发生 故障 时 不能 及时 维修 的 概率 不 超过 0.01 ? ? ?
+（ 2 ）   若 由 一个 工人 负责 维修 20 台 设备 ， 求 设备 发生 故障 时 不能 及时 维修 的 概率 ~

@@ -1,0 +1,36 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <zhong@ccert.edu.cn>; Tue, 6 Sep 2005 16:37:07 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <zhong@ccert.edu.cn>; Tue, 6 Sep 2005 16:49:24 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "you" <you@126.com>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvK/dGnXbnY09q4xcLKtcTBvbXA0KHM4n7Po83709DIy8TcsO/O0r3ivva19H4=?=
+Date: Tue, 6 Sep 2005 16:49:16 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+1 .
+先 把 飞机 到达 的 所有 概率 列出来 ：
+a . 长机 独自 到达 P1 = 0.8 * 0.2 * 0.2
+b . 长机 与 一架 僚机 到达 P2 = 0.8 * 0.8 * 0.2
+c . 全部 到达 P3 = 0.8 * 0.8 * 0.8
+然后 ， 到达 飞机 的 数量 与 炸毁 的 概率 ：
+a . 一架 p1 = 0.3
+b . 二架 p2 = 0.5 * 0.3 + 0.25 * 0.3 * 0.3
+c . 三架 p3 = ( 3 / 8 ) * 0.3 + ( 3 / 8 ) * 0.3 * 0.3 + ( 1 / 8 ) * 0.3 * 0.3 * 0.3
+炸毁 概率   P = P1 * p1 + P2 * p2 = P3 * p3
+还 没有 看到 概率 部分 ， 具体 记不清 后面 算 的 飞机 到达 数目 的 炸毁 概率 算 的 对 不 对 了 ， 你 可以 自己 看 一下 ， 整个 过程 倒 是 很 麻烦 ： ）
+2 . 同上 列 完 就 可以 了 .   两人 都 进 1 ， 2 ， 3 ， 0 球 的 概率 ， 然后 全概 ， 没有 找到 简便 点 的 算法
+我 的 数学 不是 很 好 , 自己 现在 在 复习 关于 概率 的 基础 部分   现有 两道 小 题 不太会 做 ~ 因为 自己 的 答案 和 标准答案 不 一样 ~
+1 : 设有 一架 长机 两架 僚机 飞往 某 目的地 进行 轰炸 , 由于 只有 长机 装有 导航 设备 , 因此 僚机 不能 单独 到达 目的地 , 并 在 飞行 途中 要 经过 敌方 高射炮 防御 地带 , 每机 被 击落 的 概率 是 0.2 . 到达 目的地 之后 , 各 机 独立 轰炸 , 每机 炸 中 目标 的 概率 是 0.3 . 求 目标 被 炸 中 的 概率 ~
+2 : 设甲 , 乙 两 篮球 运动员 投篮 命中率 分别 为 0.7 和 0.6 . 每人 投篮 3 次 , 求 两人 进球数 相等 时 的 概率 ~

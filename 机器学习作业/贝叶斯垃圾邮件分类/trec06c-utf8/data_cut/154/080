@@ -1,0 +1,37 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <cao@ccert.edu.cn>; Mon, 19 Sep 2005 07:11:43 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Sun, 18 Sep 2005 23:22:44 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Sun, 18 Sep 2005 23:22:44 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <cao@ccert.edu.cn>; Sun, 18 Sep 2005 16:33:41 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <cao@ccert.edu.cn>; Sun, 18 Sep 2005 18:31:07 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 07:22:31 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <yan@motorola.com>
+To: cao@ccert.edu.cn
+Cc: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfz1vqjutfc09DIy8fAztJJUNT1w7Sw7KO/?=
+Date: Mon, 19 Sep 2005 07:22:05 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+遇到 的 情况 应该 是 mac 地址 重复 。
+mac 地址 固化 在 网卡 中 的 BIOS 中 ， 可以 通过 命令 取得 ， 但是 ， 通过 命令 取得 的 mac 地址 不 一定 是 真实 的 mac 地址 ， 因为 在 网卡 初始化 过程 中 ， 操作系统 确实 读取 了 网卡 中 mac 地址 ， 但是 在 以后 通讯 过程 中 使用 的 mac 地址 却是 从 初始化 过程 结束 后 建立 的 缓冲区 中 读取 ， 而 缓冲区 中 mac 地址 可能 是 注册表 定义 的 mac 地址 ， 而 不是 真实 的 mac 地址 ， 这个 过程 由 网卡 驱动程序 完成 。 这 也 是 WIN 操作系统 的 mac 地址 可以 被 轻易 修改 的 原因 。
+校园网 的 mac 地址 和 ip 地址 可能 不是 绑定 的 ， 因此 就 可能 有人 修改 mac 地址 ； 或者 即使 绑定 了 ， 也 可以 通过 技术手段 破解 ？
+具体 咋 处理 不 知道 ， 纪录 冲突 的 mac 地址 报请 网管 处理 ？
+rt 。
+总是 弹 出 对话框 说 我 的 IP地址 和 网罗 上 的 其他 系统 有 冲突 ， 是不是 有人 不屈 不饶 地 指定 我 的 IP 呢 ？ 请问 各位 大侠 我该 怎么办 呀 ？
+faint ！

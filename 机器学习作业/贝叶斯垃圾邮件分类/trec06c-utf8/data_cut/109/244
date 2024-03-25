@@ -1,0 +1,41 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j886dpj9010160
+	for <peng@ccert.edu.cn>; Sat, 10 Sep 2005 06:15:49 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMH00ME4KNH3F@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 10 Sep 2005 06:33:16 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Thu,
+ Sat, 10 Sep 2005 06:33:15 +0800
+Date: Sat, 10 Sep 2005 06:33:15 +0800
+From: zhu@cernet.com
+Subject: =?gb2312?B?u9i4tA==?=:Re: =?gb2312?B?u9i4tA==?=:Re: [SPAM]
+ =?gb2312?B?zrrAz8qmo6zU2bTOtPK9wcHL?=
+To: peng@ccert.edu.cn
+Message-id: <44569493dd.493dd44569@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+无意间 收集 到 的
+给 07 年 的 自己 攒 rp ^ _ ^
+一 . 判断题
+1 . 希尔伯特 变换 的 等价 系统 为 全通 系统
+2 . 理想 低通滤波器 必 不可 物理 实现
+3 . 全通 函数 不可 物理 实现
+4 . 理想 低通滤波器 必 不可 物理 实现
+5 . 因为 d ( delta ( t ) ) / dt = delta \ ' ( t ) ， 所以 delta \ ' ( t ) 的 积分 为 delta ( t )
+6 . 非线性 相位 的 输出 必为 其 零 状态 相应 与 零 输入 响应 之 和
+7 . 两 最小 相位 系通 函数 之 和 必为 最小 相位 系通 函数
+七 .
+( 就是 画 了 一 输入输出 的 那个 , 有 x ( t ) , e ( t ) , y ( t ) , ... )
+1 . 好像 要求 t - & gt ; 无穷 时 e ( t )
+2 . ?
+3 . x ( t ) = Acos ( w0 * t + Q0 ) , 求 e ( t ) 与 y ( t ) 的 稳态
+记得 最 清楚 的 一道 题 是   e ^ [ 0 , 1 ; 1 , 1 ]     当时 就 晕 了 ~
+貌似 用 泰勒 公式 可以 解决
+其他 还有 20 个 判断题     好多 关于 全通 系统 的   具体 命题 就 记 不得了

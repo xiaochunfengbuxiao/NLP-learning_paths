@@ -1,0 +1,26 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <hu@ccert.edu.cn>; Thu, 15 Sep 2005 10:28:01 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <hu@ccert.edu.cn>; Thu, 15 Sep 2005 10:59:09 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Thu, 15 Sep 2005 10:39:16 +0800
+From: "yang" <yang@mail.nisac.gov.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW8r90addILnY09q5pMjL0N7A7bv6xve1xNXiuPa4xcLKzsrM4n5+fn7T0MjLsO/O0r+0v7TC
+8KO/0A==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+为了 保证 设备 正常 工作 ， 需要 配备 适量 的 维修 工人 ， 现有 同一 类型 的 设备 300 台 ， 各台 设备 工作 相互 独立 ， 发生 鼓掌 的 概率 是 0.01 ， 在 通常 情况 下 ， 一台 设备 的 故障 可以 由 一个 工人 处理 。
+（ 1 ）   问 至少 需要 配备 多少 工人 ， 才能 保证 设备 发生 故障 时 不能 及时 维修 的 概率 不 超过 0.01 ? ? ?
+（ 2 ）   若 由 一个 工人 负责 维修 20 台 设备 ， 求 设备 发生 故障 时 不能 及时 维修 的 概率 ~
+我 在 解题 时   所 面对 的 问题 在于 ， 还是 不 能够 将 题意 很 好 的 理解 。 我 始终 还是 不 能够 将 工人 的 数目     和   及时 维修 机器 故障   这 两个 事情 有 必要 的 数学 关系 表示 出来 ~ ~   工人 的 数目 到底 怎么 影响 着 “ 及时 维修 ” ？ ？ ？ 是 一个 人修 一台 机器 吗 ？ ？ ？ ？ 那 是不是 意味着   有 多少 机器 一起 发生 故障 的 概率 0.01 ? ? ? 有些 混乱 ~
+有 谁 能 帮 我 理清 思路 ？ ？
+谢谢 了 ！ ！ ！
+答案 ：     8     和   0.0175

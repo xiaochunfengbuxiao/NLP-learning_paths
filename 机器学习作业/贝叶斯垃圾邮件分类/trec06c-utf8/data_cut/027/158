@@ -1,0 +1,121 @@
+Received: from 61.150.12.6 ([61.150.12.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7IHoX5Q011627; Mon, 22 Aug 2005 21:00:23 +0800 (CST)
+Received: from znwi75.homeway.com.cn (znwi75.homeway.com.cn [74.50.8.16]) by  with SMTP id 4A4B70A55;
+	Mon, 22 Aug 2005 11:12:05 -0200
+Message-ID: <LbFUmqVhfXOo@homeway.com.cn>
+From: "zhang" <zhang@homeway.com.cn>
+Reply-To: "zhang" <zhang@homeway.com.cn>
+To: qian@ccert.edu.cn
+X-Mailer: food stamp 52 necromancers
+Subject: =?gb2312?B?vqvA7be9tcTQ6Mfzt9bO9sjrw8W9zLLELg==?=
+Date: Mon, 22 Aug 2005 12:08:05 -0100
+MIME-Version: 1.0
+Organization: food stamp 52 necromancers
+Content-Type: multipart/alternative;
+	boundary="=====84143290425060=_"
+
+
+quadrupole   thine   issuant   stupendous   bracken   fought   crawlspace   registry
+rosemary     successor     siva     comprehensible   detente   prostitute   integrity
+colosseum   passionate
+
+Ginfab 的 需求 分析 理论
+
+更 多 的 文章
+
+
+软件 的 开发 步骤 从 工程 上来 分 的话 ， 一般 可 分成 ： 需求 收集 ， 需求 分析 设计 ， 系
+
+若 从 角色 上 来看 的话 ， 有 使用者 ， 领域专家 ， 系统分析员 ， 系统 设计员 ， 编程 人
+员 ， 测试人员 ， 客服 人员 。
+
+若用 构成 软件 的 性质 的 来看 的话 ， 可以 分成 表现 层 ( Presentation
+Model ) ， 运作 层 ( Control   Model ) ， 数据 层 ( Data   Model ) 。
+
+从 企业 的 行为 来看 的话 ， 企业 组织 的 运作 是 由 一个个 的 部门 之间 操作 着 不同 的 文
+件 而 组成 ， 有人 叫做 这些 为 许多 的 Business
+Process ( BP ) ， 有人 说 是 一堆 的 文件 在 Working   Flow 中 流动 来 构成 企业 的 活动 。
+
+所以 从 软件 的 设计 方向 来看 ， 可以 分成 两种 ， 一是 Design   for   Work
+Flow 式 的 应用 ， 一是 Design   for
+Data 式 的 应用 ； 前者 是 比较 新 的 方向 ， 后者 是 行 之 多年 的 应用 思想 ， 因此 早就 有
+管理 Data 的 应用 工具 ， 其中 被 用 得 最 多 的 ， 我们 叫 他 Relational   Database
+Management
+Data ， 有些 人 叫 它 作 2 - tier 。
+
+如前所述 ， 企业 的 活动 主要 是 由 位于 不同 组织 内 的 不同 的 人 ， 透过 不同 的 操作 方
+法 处理 着 各式 的 文件 ， 如 挂号 单 、 就诊 单 、 领药 。 所以 要 计算机化 的话 ， 我们 会
+提供 简易 方便 的 接口 ( Presentation
+Model ) 让 使用者 操作 文件 ( Document ) ， 最后 提供 一个 储存 的 地方 来放 数据 ( Data )
+data ， 而 存在 数据库 内 的 叫 physical   data 。
+
+但是 综合 上述 来看 ， 一个 软件 的 成功 因素 ， 一看 好不好 用 ， 二看 操作 的 文件 内含
+是否 足够 ， 三 就是 可不可以 多 收到 一点 费用 ， 其它 的 就 都 是 工程 上 的 问题 了 。 最
+后 dw 把 他 综合 成 ， 只要 Presentation   Model 够 好 ， Document
+model 正 不 正确 ， 等等 都 必须 先 满足 前述 理由 ， 换句话说 要 先 满足 是 客户 因素 的 W
+hat 部份 。
+
+西安 人士 一般 在 IT 技术 领域 内 都 不太有 问题 ， 除非 他 自己 本身 对于 工具 还 不太会
+用 ， 目前 磨合 的 结果 ， 表现 在 日志 当中 的 问题 ， 综合 起来 看 大概 只有 几件 事情 ，
+騇 SN 的 沟通 来 加以 补足 的 ， 可是 真的 沟通 之后 就 没有 问题 了 吗 ？ 其实不然 ， 若沟
+通不从 presentation   model 和 document
+
+磨合 过程 中 ， 对于 presentation
+model 来看 问题 不 大 ， 一般 都 于 事先 注意 到 ( 编码 前 ) ， 然而 document
+model 上 就 会 疏忽 ， 未能 于 事先 先作 需求 确认 ， 为何 dw 要 如此 说 呢 ？ 其实 这 两个 m
+odel 是 可以 互相 勾稽 补助 的 工具 ， 甚至 可以 说 document
+鹊奈侍 舛 伎 梢 栽 赿 ocument   model 当中 找到 ， 而且 可以 在 编程 之前 确定 。
+
+还有 一个 最 常 遇到 的 问题 就是 ， 因为 我 对 这个 应用 系统 该 如何 操作 不 清楚 ， 所以
+常会 理解 错误 ， 但是 dw 不太 认同 这 一个 说法 ， 因为 操作 不要 看成 只是 在 页面 上操
+九成 的 问题 与 九成 的 操作 问题 都 可以 事先 得到 答案 ， 更 可以 自行设计 出 更好 操作
+模式 出来 。
+
+除了 presentation   model 和 document   model 以外 还有 一个 Control
+
+从 Model 本身 来看 ， 又 可以 分成 动态 的 ( UML   State   chart ) 与 静态 的 ( UML   Class
+Diagram ) 两种 ， 当然 我 的 建议 是 先静 后动 ， 因为 静态 的 关系 比较稳定 ， 而 动态 的
+关系 比较 与 客户 的 关心 有关 ， 这类 的 事 就 不是 软件 人员 可以 控制 的 ， 我 的 建议 是
+最好 承认 它 变化 性 的 存在 。 静态 关系 之下 依 顺序 是 Entity ,
+Relationship ( Direction ,   Multiplicity ,
+
+最后 提到 与 西安 的 分工 模式 ， 让 我们 从 软件 的 开发 步骤 来看 ， 依序 为 需求 陈述 ，
+需求 分析 ， 系统分析 ， 系统 设计 ， 编码 ， 测试 。 基本上 愈 往右 段 走会 愈细 ， 也 可
+以 说 需要 沟通 的 地方 会 更 多 ， 更 可以 说会 意见 愈 分岐 的 地方 也 愈 多 ， 如 为什么 不
+用 inheritance ， 为什么 要用 wrapper ， 为什么 不用 array ， 为什么 不用 string
+grid ? 其实 这些 争论点 都 不 太 重要 ， 重要 的 应该 在于 是否 能 符合 前述 的 document
+model ? 我们 根本 不 需要 针对 这些 细节 沟通 ， 因为 不 沟通 反而 才 是 最好 的 沟通 。
+
+如果 老板 说 ： 希望 外 包能 给 的 钱 愈 多 愈 好 ； 如果 工程师 说 ： 文件 能 写 的 愈 细愈 好
+( Coding
+Spec . ) ； 各位 看官 觉得 这是 可能 的 发展 吗 ？ 基本上 这是 矛盾 的 ， 应该 是 在 这 一个
+开发 顺序 当中 「 需求 陈述 ， 需求 分析 ， 系统分析 ， 系统 设计 ， 编码 ， 测试 」 ， 西
+安 这里 的 能力 要 由 右段 ( 工匠 ) 承接 工作 到 左段 ( 设计 ) ， 那 费用 的 部份 才 会 愈来愈
+高 ， 最后 希望 台北 这里 只 剩下 需求 陈述 与 确认 而已 。 忘 了 ， 还要 出钱 ， 而且 愈出
+愈 多 。
+
+
+有人 认为 让 大陆 的 工程师 编码 就 好 了 ， 所以 把 Coding
+Spec 都 开好 开细 ， 让 编程 的 人员 像 生产线 上 的 机器 就 可以 了 ， DW 认为 做 不到 这一
+件 事 ， 因为 人 不是 机器 ， 即使 要 这样 做 也 必须 由 当地人 来开 设计 文件 ， 就 像 当初
+浩雷 做 的 一样 ； 另一方面 来说 ， 这样 下去 ， 会 限制 了 人们 的 思想 ， 好 的 设计 再也
+出不来 了 ； 印度 的 开发 模式 ， 就是 一个 生产线 的 方式 ， 但 另外 有 一种 是 Linux 的 O
+pen
+
+最后 再 一次 的 强调 ， 确认 的 顺序 很 重要 ， 不要 一下子 太细 了 。 不要 以为 你 懂 了 ，
+用 另 一个 model 检查一下 ， 看 还有 没有 问题 ， 尤其 是 矛盾 的 问题 ， Late
+Design 是 大师 们 的 建议 ， 不要 因为 工作 赶 ， 而 作错 ， 最后 也 没有 效果 的 。
+
+祝 各位 能 看到 这里 的 人们 ， 百尺竿头 ， 更进一步 。 倒吃甘蔗 ， 愈来愈 甜 。
+
+
+
+
+|   代 您 发 这样 的 广告 信 |   两岸 合作 充电 区   |   隐私 声明   |   联络 我们
+|   取消 订阅
+
+IFRAME :   http : / / www . ginifab . com . cn / countg / count . php ? id = 5
+
+
+
+

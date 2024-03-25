@@ -1,0 +1,86 @@
+要使用Python完成上述实验要求，你可以参照以下步骤和框架来安排你的工作流程：
+
+### 思路整理和框架：
+
+#### 1. 数据预处理
+- 从`label`文件夹中读取标签数据，提取每封邮件的标签（垃圾或正常）和路径。   完成
+- 遍历`data_cut`目录，读取每个文件的内容，只提取正文部分（忽略邮件头）。这需要解析电子邮件格式。  完成
+- 使用中文文本处理工具（例如jieba）对邮件正文进行分词。data_cut已经做好了分词  完成
+
+#### 2. 特征提取
+- 使用`CountVectorizer`或`TfidfVectorizer`从sklearn.feature_extraction.text来向量化邮件文本，将分词后的文本转换成数值特征向量。
+- 对比特征数目的影响可以通过调整`max_features`参数来实现，或者使用不同的特征选择方法（如信息增益、互信息等）。
+
+#### 3. 划分数据集
+- 使用`train_test_split`函数从sklearn.model_selection将数据集划分为训练集和测试集。
+
+#### 4. 模型训练与测试
+- 使用`MultinomialNB`类从sklearn.naive_bayes来创建朴素贝叶斯分类器模型。
+- 使用训练集数据训练模型。
+- 使用测试集数据来测试模型，评估Accuracy、Precision、Recall等指标。
+
+#### 5. 结果评估与比较
+- 使用`classification_report`和`confusion_matrix`等函数从sklearn.metrics输出模型的性能指标。
+- 对不同特征数量下的模型性能进行对比分析。
+
+#### 扩展要求
+- 如果需要考虑邮件头信息，可能需要处理邮件头的键值对数据，并将其编码为特征，可以尝试不同的特征提取方法。
+- 如果尝试自行实现朴素贝叶斯算法，可以参照算法的理论公式，用Numpy等工具自己计算条件概率、先验概率和后验概率。
+- 对概率计算方法的比较，可以实现Laplace平滑和其他概率计算方法，然后对比各自的效果。
+
+### 代码示例框架：
+
+```python
+# 引入必要的库
+import os
+import jieba
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.metrics import classification_report, confusion_matrix
+
+# 数据预处理
+def preprocess_data(label_dir, data_dir):
+    # TODO: 解析标签文件，读取内容和对应的标签
+    # ...
+    # TODO: 读取邮件正文，并进行分词处理
+    # ...
+    return features, labels
+
+# 特征提取
+def extract_features(features, vectorizer_type='Count', max_features=None):
+    vectorizer = CountVectorizer(max_features=max_features) if vectorizer_type == 'Count' else TfidfVectorizer(max_features=max_features)
+    X = vectorizer.fit_transform(features)
+    return X
+
+# 划分数据集
+def split_dataset(X, y):
+    return train_test_split(X, y, test_size=0.3, random_state=42)
+
+# 模型训练
+def train_model(X_train, y_train):
+    model = MultinomialNB()
+    model.fit(X_train, y_train)
+    return model
+
+# 测试模型
+def evaluate_model(model, X_test, y_test):
+    y_pred = model.predict(X_test)
+    print(classification_report(y_test, y_pred))
+    print(confusion_matrix(y_test, y_pred))
+
+# 主程序
+def main():
+    label_dir = 'path/to/label/folder'
+    data_dir = 'path/to/data/folder'
+    features, labels = preprocess_data(label_dir, data_dir)
+    X = extract_features(features)
+    X_train, X_test, y_train, y_test = split_dataset(X, labels)
+    model = train_model(X_train, y_train)
+    evaluate_model(model, X_test, y_test)
+
+if __name__ == '__main__':
+    main()
+```
+
+以上代码只是一个大致框架，每个函数的实现细节需要你根据具体任务来填补和完善。另外，请务必根据你的实验环境和提供的具体数据集来调整文件路径和数据处理逻辑。

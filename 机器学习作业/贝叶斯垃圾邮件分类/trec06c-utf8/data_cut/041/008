@@ -1,0 +1,42 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <wang@ccert.edu.cn>; Fri, 26 Aug 2005 00:58:44 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 16:48:19 -0000
+From: "hu" <hu@mails.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 01:12:01 +0800
+
+【   以下 文字 转载自   DEE   讨论区   】
+发信人 :   calmness   ( 冷静 | | 陪 你 是 我 的 必修课 ) ,   信 区 :   DEE
+标     题 :   IBM   Gluecode 软件部 副总裁 - Chet   Kapoor 清华 技术   ( 转载 )
+发信人 :   calmness   ( 冷静 | | 陪 你 是 我 的 必修课 ) ,   信 区 :   DA
+标     题 :   IBM   Gluecode 软件部 副总裁 - Chet   Kapoor 清华 技术
+发信人 :   calmness   ( 冷静 | | 陪 你 是 我 的 必修课 ) ,   信 区 :   DCST
+标     题 :   IBM   Gluecode 软件部 副总裁 - Chet   Kapoor 清华 技术
+IBM 名人 技术讲座 系列   －   IBM   Gluecode 软件部 副总裁 - Chet   Kapoor 讲座
+届时 将 有 developerworks 的 一些 资料 和 2005 年度 IBM 软件 DVD 发放 ， 欢迎 大家 参加 !
+日程安排 ：
+时间 :   2005 年 8 月 30 日   下午   4 : 00   -   5 : 00
+题目 :   Gluecode 以及 IBM 的 开源 软件 政策
+地点 ： 清华大学 信息 科技 技术 大楼   1 区   315
+主办单位 : 清华大学 信息 学院 、 IBM 大学 合作部 、 IBM 中国 软件开发 实验室 、
+清华大学 计算机系 研究生 会
+内容 概要
+Gluecode 软件 提供 开放源码 的 应用服务器 ( Application   Server ) ， 主要 面向 中小企业 提供 服务 ,   其 实现 基于 以下 几个 著名 的 开源 项目 :
+Geronimo   - - Apache 的 一款 J2EE 应用服务器
+Jetty   - -   Mort   Bay 的 一款 HTTP 服务器 和 servlet 容器
+Pluto   - -   Apache 的 portlet 服务器
+Derby   - -   Apache 的 开源 JDBC 数据库
+ActiveMQ   - - Protique 的 JMS 消息 系统
+IBM 一直 在 为 推动 开放源码 的 应用 贡献 自己 的 力量 ， 收购 Gluecode 既 是 继续 IBM 对 开放源码 支持 的 承诺 ， 也 希望 为 用户 提供 更 多 的 选择 和 更 大 的 灵活性 。 由于 Gluecode 的 产品 符合 业界 标准 ， 所以 当 用户 需要 时 ， 可以 从 Gluecode 轻松升级 到 WebSphere 。
+了解 Gluecode 详情 ， 敬请 访问 ： http : / / www . gluecode . com
+演讲者 简介
+Chet   Kapoor 现任 IBM   Gluecode 软件部 副总裁 ， 致力于 驱动 IBM 的 开源 应用服务器 业务 。 Kapoor 先生 曾 担任 Gluecode 软件 公司 的 CEO ， 该 公司 最近 被 IBM 收购 。 Kapoor 先生 具有 20 多年 丰富 的 软件 和 硬件 公司 从业 经验 ， 加入 Gluecode 公司 前 ， 他 担任 BEA 公司 集成 事业部 的 总经理 一职 ， 创造 了 18 个 月 内 业务 从 1500 万 增长 到 1 亿 的 辉煌 业绩 。 在此之前 ， 还 曾 在 KnowNow 、 Active   Software / webMethods 、 Inventa   Corporation 和 NeXT   Computers   Inc 公司 任 管理 、 咨询 或 技术开发 等 职位 。

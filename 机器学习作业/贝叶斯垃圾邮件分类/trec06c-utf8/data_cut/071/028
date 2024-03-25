@@ -1,0 +1,26 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <zhang@ccert.edu.cn>; Fri, 2 Sep 2005 10:23:08 +0800 (CST)
+Received: (qmail 18809 invoked from network); Fri, 2 Sep 2005 02:34:51 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 2 Sep 2005 02:34:51 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "bai" <bai@jdl.ac.cn>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1PXR+bLwt9bX1rf7tK6jv6O/?=
+Date: Fri, 2 Sep 2005 10:37:09 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+文本 如下
+ATOM           58     CG     GLU   A       7             17.727 - 142.730     77.194     1.00   47.20                       C
+ATOM           59     CD     GLU   A       7             18.075 - 142.114     75.851     1.00   54.74                       C
+在 TC 用 fgets 读入 后 ， 每 一行 作为 一个 字符串 ， 现在 要 把 它 每 一行 拆 分成 8 个 字符串 ， 基本 是 以 空格 为界 ， 比较 特殊 的 有 17.727 - 142.730 拆为 两个 17.727   - 142.730 ， 不 知道 该 怎么 做 。
+我 是 用 一个
+for ( j = 0 ; line [ i ] [ j ] ! = \ '   \ ' ; j ++ ) , 其中 line [ i ] [ j ] 是 第 i 行第 j 个字符 ， 但 只能 把 ATOM 复制 出来 ， 后面 的 就 不 知道 该 怎样 往 for ( ) 括号 里 填 了 ， 请 各位 xdjm 指教 为谢 ！

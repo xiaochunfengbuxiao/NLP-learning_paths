@@ -1,0 +1,24 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <tan@ccert.edu.cn>; Wed, 28 Sep 2005 12:19:41 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <tan@ccert.edu.cn>; Wed, 28 Sep 2005 11:40:00 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "fu" <fu@cert.org.cn>
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzhvvbFxMvAzfXb89Xi0fnN/Lb3uLrS5bXEsNfR28DH?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Wed, 28 Sep 2005 12:25:39 +0800
+
+他 说 的 情况 存在 他 说 的 就是 对 ？ 这是 什么 逻辑 ？
+那 我 指着 一只 猪 说 这 是 一头 牛 也 对 啦 ， 因为 世界 上 就是 有 牛 嘛 。
+而且 ， 恰恰好 我 知道 一些 他 的 那 篇 论文 ， 关于 斯坦纳 树 的 构造 。 他 说 事实上 电路 里 的 线网 都 没 那么 大 所以 他 的 研究 没有 意义 根本就是 胡扯 。 一个 电路 里 的 普通 线网 是 不大 ， 但是 电源线 地线 跟 时钟 线 是 几乎 所有 单元 ， 或者 时序 单元 都 有 的 ， 大得 很 ， 一个 线网 有 几万几十万 个 引脚 慢得 算法 要 几十几百 个 小时 ， 快 的 几分钟 几十分钟 而已 。 设计 时钟 线网 的 时候 还要 有 很多 个叠代 循环 ， 你 说 有用 没用 。
+不过 这 不 代表 他 的 那 篇文章 牛 ， 嘿嘿 ， 我 还是 不 说 啥 了 。
+他 说 的 凑 paper 数量 , 论文 与 实际 应用 脱节 , 为了 发 paper 而发 paper 这些 情况 都 是 存在 的 ,
+是 应该 引起 注意 并 有所 改变 的 , 怎么 能 说 没有 任何 可取之处 呢 .
+不知 你 是不是 认为 这样 的 现象 是 正常 的 , 理所当然 的 .

@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBMZaM026296
+	for <gan@ccert.edu.cn>; Wed, 14 Sep 2005 21:18:17 +0800 (CST)
+Received: (eyou send program); Wed, 14 Sep 2005 21:11:59 +0800
+Message-ID: <326696577.15347@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 14 Sep 2005 21:11:59 +0800
+Message-ID: <326696577.15331@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 14 Sep 2005 21:11:59 +0800
+From: zhan@mail.tsinghua.edu.cn
+To: gan@ccert.edu.cn
+Date: Wed, 14 Sep 2005 21:11:59 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW8r90addudjT2rmkyMvQ3sDtu/rG97XE1eK49rjFwsrOyszifn5+ftPQyMuw787Sv7S/tMLw
+o7/Qu9A=?=
+Content-Type: text/plain
+
+为了 保证 设备 正常 工作 ， 需要 配备 适量 的 维修 工人 ， 现有 同一 类型 的 设备 300 台 ， 各台 设备 工作 相互 独立 ， 发生 鼓掌 的 概率 是 0.01 ， 在 通常 情况 下 ， 一台 设备 的 故障 可以 由 一个 工人 处理 。
+（ 1 ）   问 至少 需要 配备 多少 工人 ， 才能 保证 设备 发生 故障 时 不能 及时 维修 的 概率 不 超过 0.01 ? ? ?
+（ 2 ）   若 由 一个 工人 负责 维修 20 台 设备 ， 求 设备 发生 故障 时 不能 及时 维修 的 概率 ~
+我 在 解题 时   所 面对 的 问题 在于 ， 还是 不 能够 将 题意 很 好 的 理解 。 我 始终 还是 不 能够 将 工人 的 数目     和   及时 维修 机器 故障   这 两个 事情 有 必要 的 数学 关系 表示 出来 ~ ~   工人 的 数目 到底 怎么 影响 着 “ 及时 维修 ” ？ ？ ？ 是 一个 人修 一台 机器 吗 ？ ？ ？ ？ 那 是不是 意味着   有 多少 机器 一起 发生 故障 的 概率 0.01 ? ? ? 有些 混乱 ~
+有 谁 能 帮 我 理清 思路 ？ ？
+谢谢 了 ！ ！ ！
+答案 ：     8     和   0.0175

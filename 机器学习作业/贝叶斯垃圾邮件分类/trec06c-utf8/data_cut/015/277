@@ -1,0 +1,39 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <yang@ccert.edu.cn>; Sat, 20 Aug 2005 07:59:34 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 00:09:48 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 00:09:48 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "wua" <wua@jdl.ac.cn>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg09C8vMr1xNHM4qOs09CzpdGwx/O94r72t72wuKOowb249s7KzOIxMDAw1KqjqQ==?=
+Date: Sat, 20 Aug 2005 08:13:56 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+各位 高手 ， 小弟 在 开发 中 遇到 问题 ， 老板 限期 解决 ， 不然 要 砸饭碗 ， 愿意 出 1000 元 奖金 寻求 高手 支持 ， 问题 如下 ：
+开发 环境
+操作系统 ： win2000
+数据库 ： SQLServer2000
+开发工具 ： . net ( c# )
+问题 一
+将 存放 在 数据表 中 的 多条 记录 的 rtfContent 字段 内容 合并 成 一个 rtf 文档 .
+数据表 结构 如下
+id   int   / / 文件 编号
+rtfContent   image   / / 存放 rtf 文档
+问题 二
+要 完成 的 任务 ： 在 浏览器 上 编辑 rtf 文档 （ 包含 图片 、 公式 的 不规则 字符 ） ， 并 将 编辑 后 的
+rtf 文档 保存 至 服务器 。
+我 的 解决办法 ： 用 delphi 提供 的 activeForm 技术 将 微软 的 RichTextBox . ocx 封装 成新 的 ocx
+， 并 写 了 一些 供 javascript 在 浏览器 端 操作 ocx 的 方法 。 现在 存在 的 问题 是
+当 在 ocx 提供 的 编辑 区 执行 复制 ( ctrl + c ) 、 粘贴 ( ctrl + v ) 、 撤销 ( ctrl + z ) ，
+删除 ( del ) 等 操作 时 ， 程序 将 自动 结束 ， 并 关闭 浏览器 。 请问 这是 什么 原因
+， 该 怎么 解决 。
+有 能够 解决 的 请 发邮件 ： windowren @ 263 . net

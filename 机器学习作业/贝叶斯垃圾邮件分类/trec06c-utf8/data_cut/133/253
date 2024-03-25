@@ -1,0 +1,29 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <han@ccert.edu.cn>; Thu, 15 Sep 2005 04:27:58 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <han@ccert.edu.cn>; Thu, 15 Sep 2005 04:59:06 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Thu, 15 Sep 2005 04:39:13 +0800
+From: "hua" <hua@mail.nisac.gov.cn>
+To: han@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO457TzvePH673MvLi1wNDFusXM4iyyorOr0umzycGi0MW6xdPrz7XNs87KzOLM1sLbx/g=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+问题 一 :
+为 使 带 通信 号 以 尽量 小 的 群 延迟 无失 真的 通过 理想 带通 系统 , 则 要求 其带 内 幅频特性 为 常数 , 相频 为 过 在 频 的 点 的 负 斜率 直线 , . 该 结论 与 信号 的 无 失真 传输 ( 幅频 常数 , 相频 过 零点 直线 ) 不 一致 . 二者 是否 矛盾 ? 怎样 推倒 给出 详细 解释 ?
+郑 的 书上 没有 呀 ?   我 也 看不出来 , 恳请 各位 解答
+问题 二
+判断
+1 . 不含 直流 分量 的 信号 的 希尔 拨特 变换 是 全通 系统 ?
+2 . 两个 最小 相移 系统 的 级联 一定 是 最小 相移 系统 ?
+3 希尔伯特 变换 的 等价 系统 为 全通 系统 ?
+4 延迟 为 T 的 连续 时间 线形 时 不变 系统 是 最小 相移 系统 ?
+5 全通 系统 是 不可 实现 系统 ?
+说出 你们 的 理由 ?

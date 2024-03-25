@@ -1,0 +1,402 @@
+Received: from mgateway201.xinnetdns.com (mgateway201.xinnetdns.com [210.51.172.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF9BQL009042
+	for <wen@ccert.edu.cn>; Fri, 23 Sep 2005 02:36:12 +0800 (CST)
+Message-ID: <200509222309.j8MF9BQL009042@spam-gw.ccert.edu.cn>
+Received: from [218.17.90.173] by 210.51.172.201 with StormMail ESMTP id 85962.1051653333;
+	Fri, 23 Sep 2005 02:47:18 +0800 (CST)
+From: =?gb2312?B?VU1MQ2hpbmG3x9OvwPu5q7+qv84=?= <chen@umlchina.com>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?VU1MQ2hpbmGhvlVNTMq11/fPuL3aob8yMDA1xOoxMNTCMjItMjPI1cnPuqM=?=
+Date: Fri, 23 Sep 2005 02:47:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_03B8_01C5BFCC.36077860"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW/iSTP+G9h6J39Qb+lo4qe1xwtpg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+魏克 您好 ！
+
+感谢您 曾经 垂询 UMLChina 服务 。
+
+
+
+以下 信息 供参考 ：
+
+
+
+* /
+
+主题 :   “ UML 应用 实作 细节 ”
+
+开课时间 :   2005 年 10 月 22 - 23 日 （ 9 : 00 - 12 : 00 ， 13 : 00 - 17 : 00 ）
+
+上课 地点 :   上海
+
+费用 ：   每人 400 元 ， 含 2 天 午餐 。 交通 、 住宿费 请 自理 。 （ 您 没有 看 错 ， 确实 没有 少写
+一个零 ， 因为 我们 的 公开课 是 非盈利 的 。 ）
+
+
+
+联系 Email ：   course @ umlchina . com
+
+联系电话 ：   0755 - 83482369
+
+报名 截止 日期 ：   2005 年 10 月 19 日 。 名额有限 ， 先到 先得 ， 报满 则 停止 。
+
+下载 报名表 ： http : / / www . umlchina . com / training / course . doc
+
+下载 后 按 里面 说明 填好 。 发邮件 到 course @ umlchina . com ， 我们 将 尽快 与 您 联系 。 有疑
+问请 联系 course @ umlchina . com 。
+
+注 ： 《 非 程序员 》 剩余 点数 超过 40 点 ， 可以 免费 参加 UMLChina 公开课 一次 （ 或 推荐 别人
+参加 ） 。
+
+[ 课程 介绍 ]
+
+对 每个 开发 工作 流 ， 结合 讲解 、 做 练习 巩固 、 应用 到 实际 项目 三种 方式 ， 展示 使用 UML
+相关 技术开发 软件系统 的 全过程 ， 解答 实际 应用 中 的 疑难 细节 问题 。
+
+[ 学员 要求 ]
+
+课程 要求 学员 在 上课 之前 已经 有 UML 和 面向对象 的 基本知识 。
+
+欢迎 学员 携带 自己 的 项目 来 听课 ， 由 专家 在 现场 进行 剖析 。
+
+[ 专家 ]
+
+< mailto : think @ umlchina . com >   潘加宇 （ think ） － － UMLChina 首席专家 。
+
+[ 课程 大纲 ]
+
+1 .   概论
+- - 软件开发 方法 演变
+- - 面向对象 方法
+- - UML 的 统一 和 意义
+- - 使用 UML 开发 过程 、 工具 、 资料 介绍
+
+2 .   业务 建模
+- - 业务 执行者 、 业务 工人 、 业务 实体
+- - 讨论 和 练习 ， 项目 实践
+- - 业务 用例
+- - 讨论 和 练习 ， 项目 实践
+- - 详述 业务 用例 、 活动 图
+- - 讨论 和 练习 ， 项目 实践
+- - 业务 对象 模型
+- - 业务 建模 到 需求 的 映射
+
+3 .   使用 用例 组织 需求
+- - 愿景
+- - 讨论 和 练习 ， 项目 实践
+- - 识别系统 边界 和 执行者
+- - 讨论 和 练习 ， 项目 实践
+- - 用例 概念 辩析 和 识别 用例
+- - 讨论 和 练习 ， 项目 实践
+- - 书写 有 价值 的 用例 文档
+- - 识别 用例 的 关系
+- - 讨论 和 练习 ， 项目 实践
+- - 用例 的 排序 和 分包
+- - 用例 启发 技术
+- - 讨论 和 练习
+
+4 .   使用 类图 的 静态 分析
+- - 从 用例 过渡 到 类图
+- - 识别 类 及其 属性
+- - 讨论 和 练习 ， 项目 实践
+- - 识别 类 之间 的 泛化
+- - 讨论 和 练习 ， 项目 实践
+- - 识别 类 之间 的 关联
+- - 讨论 和 练习 ， 项目 实践
+- - 基本 分析 模式
+
+5 .   使用 顺序 图 的 动态分析
+- - 顺序 图 精要
+- - 讨论 和 练习
+- - 用例 、 类图 、 顺序 图 的 互动
+- - 正确 进行 责任 分配 的 原则
+- - 讨论 和 练习 ， 项目 实践
+
+6 .   状态图 实践
+- - 状态图 要义
+- - 开发 状态图 的 步骤
+- - 讨论 和 练习 ， 项目 实践
+
+7 .   过渡 到 设计
+- - 分析阶段 工件 的 细化
+- - 存储 层 的 映射
+- - 讨论 和 练习 ， 项目 实践
+- - 数据服务 层 的 映射
+- - 讨论 和 练习
+- - 企业应用 架构 模式
+- - 根据 实际 情况 折衷
+
+以上 时间 分配 会 根据 项目 特点 和 训练 进程 调整 。
+
+* /
+
+
+< html   xmlns : v = " urn : schemas - microsoft - com : vml "   xmlns : o = " urn : schemas - microsoft - com : office : office "   xmlns : w = " urn : schemas - microsoft - com : office : word "   xmlns : st1 = " urn : schemas - microsoft - com : office : smarttags "   xmlns = " http : / / www . w3 . org / TR / REC - html40 " >
+
+< head >
+< meta   http - equiv = Content - Type   content = " text / html ;   charset = gb2312 " >
+< meta   name = Generator   content = " Microsoft   Word   11   ( filtered   medium ) " >
+< title > Jet 您好 < / title >
+< o : SmartTagType   namespaceuri = " urn : schemas - microsoft - com : office : smarttags "
+name = " chsdate "   downloadurl = " " / >
+< ! - - [ if   ! mso ] >
+< style >
+st1 \ : * { behavior : url ( # default # ieooui )   }
+< / style >
+< ! [ endif ] - - >
+< style >
+< ! - -
+/ *   Font   Definitions   * /
+@ font - face
+{ font - family : 宋体 ;
+panose - 1 : 2   1   6   0   3   1   1   1   1   1 ; }
+@ font - face
+{ font - family : " \ @ 宋体 " ;
+panose - 1 : 2   1   6   0   3   1   1   1   1   1 ; }
+/ *   Style   Definitions   * /
+p . MsoNormal ,   li . MsoNormal ,   div . MsoNormal
+{ margin : 0cm ;
+margin - bottom : . 0001pt ;
+text - align : justify ;
+text - justify : inter - ideograph ;
+font - size : 10.5 pt ;
+font - family : " Times   New   Roman " ;
+color : windowtext ; }
+a : link ,   span . MsoHyperlink
+{ color : blue ;
+text - decoration : underline ; }
+a : visited ,   span . MsoHyperlinkFollowed
+{ color : purple ;
+text - decoration : underline ; }
+p
+{ mso - margin - top - alt : auto ;
+margin - right : 0cm ;
+mso - margin - bottom - alt : auto ;
+margin - left : 0cm ;
+font - size : 12.0 pt ;
+font - family : 宋体 ;
+color : black ; }
+/ *   Page   Definitions   * /
+@ page   Section1
+{ size : 612.0 pt   792.0 pt ;
+margin : 72.0 pt   90.0 pt   72.0 pt   90.0 pt ; }
+div . Section1
+{ page : Section1 ; }
+- - >
+< / style >
+< ! - - [ if   gte   mso   9 ] > < xml >
+< o : shapedefaults   v : ext = " edit "   spidmax = " 1026 "   / >
+< / xml > < ! [ endif ] - - > < ! - - [ if   gte   mso   9 ] > < xml >
+< o : shapelayout   v : ext = " edit " >
+< o : idmap   v : ext = " edit "   data = " 1 "   / >
+< / o : shapelayout > < / xml > < ! [ endif ] - - >
+< / head >
+
+< body   lang = ZH - CN   link = blue   vlink = purple   style = ' text - justify - trim : punctuation ' >
+
+< div   class = Section1 >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ' > 魏克 < / span > < / font > < font
+size = 1   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ' > 您好 ！ < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ' > 感谢您 曾经 垂询 UMLChina 服务 。 < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ' > < o : p > & nbsp ; < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ' > 以下 信息 供参考 ： < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ' > < o : p > & nbsp ; < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ' > * / < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   color = blue   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ;
+color : blue ' > 主题 :   “ UML 应用 实作 细节 ”   < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   color = blue   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ;
+color : blue ' > 开课时间 :   2005 年 10 月 22 - 23 日 （ 9 : 00 - 12 : 00 ， 13 : 00 - 17 : 00 ） < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   color = blue   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ;
+color : blue ' > 上课 地点 :   上海 < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   color = blue   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ;
+color : blue ' > 费用 ：   每人 400 元 ， 含 2 天 午餐 。 交通 、 住宿费 请 自理 。 （ 您 没有 看 错 ， 确实 没有 少写 一个零 ， 因为 我们 的 公开课 是 非盈利 的 。 ） < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   color = blue   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ;
+color : blue ' > < o : p > & nbsp ; < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   color = blue   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ;
+color : blue ' > 联系 Email ：   course @ umlchina . com < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   color = blue   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ;
+color : blue ' > 联系电话 ：   0755 - 83482369 < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   color = blue   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ;
+color : blue ' > 报名 截止 日期 ：   < st1 : chsdate   Year = " 2005 "   Month = " 10 "   Day = " 19 "
+IsLunarDate = " False "   IsROCDate = " False "   w : st = " on " > 2005 年 10 月 19 日 < / st1 : chsdate > 。 名额有限 ， 先到 先得 ， 报满 则 停止 。 < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   color = blue   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ;
+color : blue ' > 下载 报名表 ： < a   href = " http : / / www . umlchina . com / training / course . doc " > http : / / www . umlchina . com / training / course . doc < / a > < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   color = blue   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ;
+color : blue ' > 下载 后 按 里面 说明 填好 。 发邮件 到 course @ umlchina . com ， 我们 将 尽快 与 您 联系 。 有 疑问请 联系 course @ umlchina . com 。 < / span > < / font > < font
+size = 1   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ' >   < font   color = blue > < span
+style = ' color : blue ' > < o : p > < / o : p > < / span > < / font > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' mso - margin - top - alt : auto ; mso - margin - bottom - alt :
+auto ; text - align : left ' > < font   size = 1   color = " # 333333 "   face = 宋体 > < span
+style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : # 333333 ' > 注 ： 《 非 程序员 》 剩余 点数 超过 < span
+lang = EN - US > 40 < / span > 点 ， 可以 免费 参加 < span   lang = EN - US > UMLChina < / span > 公开课 一次 （ 或 推荐 别人 参加 ） 。 < / span > < / font > < font
+size = 1   color = red   face = 宋体 > < span   lang = EN - US   style = ' font - size : 9.0 pt ; font - family :
+宋体 ; color : red ' > < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' mso - margin - top - alt : auto ; mso - margin - bottom - alt :
+auto ; text - align : left ' > < font   size = 1   color = red   face = 宋体 > < span   lang = EN - US
+style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : red ' > [ < / span > < / font > < font   size = 1
+color = red   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : red ' > 课程 介绍 < span
+lang = EN - US > ] < / span > < / span > < / font > < font   size = 1   color = black   face = 宋体 > < span
+lang = EN - US   style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : black ' > < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' mso - margin - top - alt : auto ; mso - margin - bottom - alt :
+auto ; text - align : left ' > < font   size = 1   color = black   face = 宋体 > < span   style = ' font - size :
+9.0 pt ; font - family : 宋体 ; color : black ' > 对 每个 开发 工作 流 ， 结合 讲解 、 做 练习 巩固 、 应用 到 实际 项目 三种 方式 ， 展示 使用 < span
+lang = EN - US > UML < / span > 相关 技术开发 软件系统 的 全过程 ， 解答 实际 应用 中 的 疑难 细节 问题 。 < span   lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' mso - margin - top - alt : auto ; mso - margin - bottom - alt :
+auto ; text - align : left ' > < font   size = 1   color = red   face = 宋体 > < span   lang = EN - US
+style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : red ' > [ < / span > < / font > < font   size = 1
+color = red   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : red ' > 学员 要求 < span
+lang = EN - US > ] < / span > < / span > < / font > < font   size = 1   color = black   face = 宋体 > < span
+lang = EN - US   style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : black ' > < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' mso - margin - top - alt : auto ; mso - margin - bottom - alt :
+auto ; text - align : left ' > < font   size = 1   color = black   face = 宋体 > < span   style = ' font - size :
+9.0 pt ; font - family : 宋体 ; color : black ' > 课程 要求 学员 在 上课 之前 已经 有 < span   lang = EN - US > UML < / span > 和 面向对象 的 基本知识 。 < span
+lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' mso - margin - top - alt : auto ; mso - margin - bottom - alt :
+auto ; text - align : left ' > < font   size = 1   color = black   face = 宋体 > < span   style = ' font - size :
+9.0 pt ; font - family : 宋体 ; color : black ' > 欢迎 学员 携带 自己 的 项目 来 听课 ， 由 专家 在 现场 进行 剖析 。 < span   lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' mso - margin - top - alt : auto ; mso - margin - bottom - alt :
+auto ; text - align : left ' > < font   size = 1   color = red   face = 宋体 > < span   lang = EN - US
+style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : red ' > [ < / span > < / font > < font   size = 1
+color = red   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : red ' > 专家 < span
+lang = EN - US > ] < / span > < / span > < / font > < font   size = 1   color = black   face = 宋体 > < span
+lang = EN - US   style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : black ' > < o : p > < / o : p > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' mso - margin - top - alt : auto ; mso - margin - bottom - alt :
+auto ; text - align : left ' > < font   size = 1   color = black   face = 宋体 > < span   lang = EN - US
+style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : black ' > < a
+href = " mailto : think @ umlchina . com " > < span   lang = EN - US > < span   lang = EN - US > 潘加宇 （ think < / span > < / span > < span
+lang = EN - US > < span   lang = EN - US > ） < / span > < / span > < / a > < / span > < / font > < font   size = 1
+color = black   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ; color : black ' > － － < span
+lang = EN - US > UMLChina < / span > 首席专家 。 < span   lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p > < font   size = 1   color = red   face = 宋体 > < span   lang = EN - US   style = ' font - size : 9.0 pt ;
+color : red ' > [ < / span > < / font > < font   size = 1   color = red > < span   style = ' font - size : 9.0 pt ;
+color : red ' > 课程 大纲 < span   lang = EN - US > ] < / span > < / span > < / font > < font   size = 1 > < span
+lang = EN - US   style = ' font - size : 9.0 pt ' > < o : p > < / o : p > < / span > < / font > < / p >
+
+< p > < font   size = 1   color = black   face = 宋体 > < span   lang = EN - US   style = ' font - size : 9.0 pt ' > 1 .
+< / span > < / font > < font   size = 1 > < span   style = ' font - size : 9.0 pt ' > 概论 < span   lang = EN - US > < br >
+- - < / span > 软件开发 方法 演变 < span   lang = EN - US > < br >
+- - < / span > 面向对象 方法 < span   lang = EN - US > < br >
+- - UML < / span > 的 统一 和 意义 < span   lang = EN - US > < br >
+- - < / span > 使用 < span   lang = EN - US > UML < / span > 开发 过程 、 工具 、 资料 介绍 < span   lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p > < font   size = 1   color = black   face = 宋体 > < span   lang = EN - US   style = ' font - size : 9.0 pt ' > 2 .
+< / span > < / font > < font   size = 1 > < span   style = ' font - size : 9.0 pt ' > 业务 建模 < span   lang = EN - US > < br >
+- - < / span > 业务 执行者 、 业务 工人 、 业务 实体 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 业务 用例 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 详述 业务 用例 、 活动 图 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 业务 对象 模型 < span   lang = EN - US > < br >
+- - < / span > 业务 建模 到 需求 的 映射 < span   lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p > < font   size = 1   color = black   face = 宋体 > < span   lang = EN - US   style = ' font - size : 9.0 pt ' > 3 .
+< / span > < / font > < font   size = 1 > < span   style = ' font - size : 9.0 pt ' > 使用 用例 组织 需求 < span
+lang = EN - US > < br >
+- - < / span > 愿景 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 识别系统 边界 和 执行者 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 用例 概念 辩析 和 识别 用例 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 书写 有 价值 的 用例 文档 < span   lang = EN - US > < br >
+- - < / span > 识别 用例 的 关系 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 用例 的 排序 和 分包 < span   lang = EN - US > < br >
+- - < / span > 用例 启发 技术 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 < span   lang = EN - US >   < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p > < font   size = 1   color = black   face = 宋体 > < span   lang = EN - US   style = ' font - size : 9.0 pt ' > 4 .
+< / span > < / font > < font   size = 1 > < span   style = ' font - size : 9.0 pt ' > 使用 类图 的 静态 分析 < span
+lang = EN - US > < br >
+- - < / span > 从 用例 过渡 到 类图 < span   lang = EN - US > < br >
+- - < / span > 识别 类 及其 属性 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 识别 类 之间 的 泛化 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 识别 类 之间 的 关联 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 基本 分析 模式 < span   lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p > < font   size = 1   color = black   face = 宋体 > < span   lang = EN - US   style = ' font - size : 9.0 pt ' > 5 .
+< / span > < / font > < font   size = 1 > < span   style = ' font - size : 9.0 pt ' > 使用 顺序 图 的 动态分析 < span
+lang = EN - US > < br >
+- - < / span > 顺序 图 精要 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 < span   lang = EN - US > < br >
+- - < / span > 用例 、 类图 、 顺序 图 的 互动 < span   lang = EN - US > < br >
+- - < / span > 正确 进行 责任 分配 的 原则 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p > < font   size = 1   color = black   face = 宋体 > < span   lang = EN - US   style = ' font - size : 9.0 pt ' > 6 .
+< / span > < / font > < font   size = 1 > < span   style = ' font - size : 9.0 pt ' > 状态图 实践 < span   lang = EN - US > < br >
+- - < / span > 状态图 要义 < span   lang = EN - US > < br >
+- - < / span > 开发 状态图 的 步骤 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p > < font   size = 1   color = black   face = 宋体 > < span   lang = EN - US   style = ' font - size : 9.0 pt ' > 7 .
+< / span > < / font > < font   size = 1 > < span   style = ' font - size : 9.0 pt ' > 过渡 到 设计 < span   lang = EN - US > < br >
+- - < / span > 分析阶段 工件 的 细化 < span   lang = EN - US > < br >
+- - < / span > 存储 层 的 映射 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 ， 项目 实践 < span   lang = EN - US > < br >
+- - < / span > 数据服务 层 的 映射 < span   lang = EN - US > < br >
+- - < / span > 讨论 和 练习 < span   lang = EN - US > < br >
+- - < / span > 企业应用 架构 模式 < span   lang = EN - US > < br >
+- - < / span > 根据 实际 情况 折衷 < span   lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p > < font   size = 1   color = black   face = 宋体 > < span   style = ' font - size : 9.0 pt ' > 以上 时间 分配 会 根据 项目 特点 和 训练 进程 调整 。 < span
+lang = EN - US > < o : p > < / o : p > < / span > < / span > < / font > < / p >
+
+< p   class = MsoNormal   align = left   style = ' text - align : left ; text - autospace : none ' > < font
+size = 1   face = 宋体 > < span   style = ' font - size : 9.0 pt ; font - family : 宋体 ' > * / < o : p > < / o : p > < / span > < / font > < / p >
+
+< / div >
+
+< / body >
+
+< / html >
+

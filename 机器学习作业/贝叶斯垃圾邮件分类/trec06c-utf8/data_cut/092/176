@@ -1,0 +1,51 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8542Gjk014940
+	for <su@ccert.edu.cn>; Tue, 6 Sep 2005 12:20:41 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j853xQ7i048852
+	for <su@ccert.edu.cn>; Tue, 6 Sep 2005 12:18:55 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j853xNkR048838
+	for <su@ccert.edu.cn>; Tue, 6 Sep 2005 12:17:48 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050359.j853xNkR048838@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Tue, 6 Sep 2005 04:06:54 -0000
+Date: Tue, 6 Sep 2005 12:27:45 +0800
+From: "cao" <cao@mails.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j853xNkR048838
+Subject: =?gb2312?B?UmU6IM7K0ru1wNX+1s7M4qOos8LPyL/8MjAwMMnPtcSjqQ==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+兄弟 分析 得 有 道理 。
+不过 好像 是 描述 了 一个 系统 的 动态 过程 。 给 了 初值 ， 得到 输出 … …
+如果 看 静态 的话 ，
+C1 ＝ 80   V1 = 20   M1 = 20
+C2 = 70   V2 = 30   M2 = 30
+平均 利润率 ＝ （ 20 / 100 + 30 / 100 ） / 2 = 0.25
+平均利润 ＝ 25
+那么 部门 1 有机 构成 高 的 获得 平均利润 量 小于 本 部门 的 剩余价值 了 。
+当然 ， 红包 上 说 “ 不能 简单 的 平均 ” （ 估计 就是指 代数 平均 ） ， 可 这 也 是 一种 可能 。
+如果 按照 抬杠 的 说法 ， 出现 个 部门 3 的 利润率 更高 ， 那 资本 都 向 部门 3 输出 ， 那 再作 比较 就 更 不 一定 了 。
+
+C1 = 80   V2 = 20
+C2 = 70   V2 = 30
+当 剩余价值率 一样 的话 ：

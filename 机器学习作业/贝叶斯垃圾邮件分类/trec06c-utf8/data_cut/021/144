@@ -1,0 +1,34 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <xia@ccert.edu.cn>; Sun, 21 Aug 2005 11:41:29 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sun, 21 Aug 2005 03:51:43 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 21 Aug 2005 03:51:43 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "mei" <mei@jdl.ac.cn>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxNzV4tH50LTK/dGnuavKvcLwo78gKNeq1Ngp?=
+Date: Sun, 21 Aug 2005 11:55:51 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【   以下 文字 转载自   DMS . THU   讨论区   】
+发信人 :   peri   ( 精灵 ) ,   信 区 :   DMS . THU
+标     题 :   能 这样 写 数学公式 吗 ？
+发信人 :   peri   ( 精灵 ) ,   信 区 :   Mathematics
+标     题 :   能 这样 写 数学公式 吗 ？
+1 。 如果 A 是 一个 矩阵 ，
+C ＝ A ＋ 3
+就是 在 A 的 每个 元素 上加 数字 3 。
+在 正式 的 paper 中能 这样 写 公式 吗 ？ 还是 需要 写成
+C = A + 3I
+I 是 一个 与 A 同维数 的 单位 阵 。
+2 。 A 是 矩阵 ， B 是 矩阵 A 的 元素 与 0 取大后 得到 的 矩阵 ， 能 这样 写 吗 ：
+B ＝ max （ A ， 0 ）
+还是 要 写成 元素 表达式 ： bij ＝ max （ aij ， 0 ）

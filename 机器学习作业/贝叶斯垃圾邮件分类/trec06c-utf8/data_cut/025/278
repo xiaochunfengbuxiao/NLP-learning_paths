@@ -1,0 +1,35 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <weng@ccert.edu.cn>; Mon, 22 Aug 2005 11:41:00 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <weng@ccert.edu.cn>; Mon, 22 Aug 2005 11:54:11 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "shen" <shen@126.com>
+To: weng@ccert.edu.cn
+Cc: <hou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvK/dGnXSDOyrj2zOLEvw==?=
+Date: Mon, 22 Aug 2005 11:54:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+好久 不 做 了
+大概 是 这样 考虑 把 ， 你 再 去 整理
+设在 x0 处 f ( x ) 取 最大值
+先 考虑 x0 在 （ a ， b ） 开区间 内 （ 在 端点 处 类似 ） 。
+则 存在 任意 小 的 正数 e , 有
+S ( a , b ) [ f ( x ) ] ^ ndx & gt ; = S ( x0 - e , x0 + e ) [ f ( x ) ] ^ ndx
+由于 连续 ， 在 区间 [ x0 - e , x0 + e ] 上 ， f ( x ) 存在 最小值 m
+于是 S ( x0 - e , x0 + e ) [ f ( x ) ] ^ ndx & gt ; = m ^ n * 2e
+从而 { S ( a ， b ) [ f ( x ) ] ^ ndx } ^ 1 / n & gt ; = m * 2e ^ 1 / n
+从而 lim & gt ; = m
+而 m 是 在 x0 的 任意 小 领域 内 的 最小值 ， 由于 连续性 ， 容易 证明 m & gt ; = M 减去 一个 任意 小 正数
+设 f ( x ) 在 [ a , b ] 上 连续 ， 且 f ( x ) & gt ; = 0 , M = maxf ( x ) , 证明
+lim {   S ( a , b ) [ f ( x ) ] ^ n   dx } ^ ( 1 / n ) }   = M     ( n - & gt ; 无穷 )
+其中   S ( a , b ) [ f ( x ) ] ^ n   dx 表示 对 [ f ( x ) ] ^ n 从 a 到 b 积分 .

@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBHc26031385
+	for <zhuang@ccert.edu.cn>; Thu, 22 Sep 2005 06:04:36 +0800 (CST)
+Message-ID: <200509211917.j8LBHc26031385@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Wed, 21 Sep 2005 22:12:28 -0000
+From: "tao" <tao@mails.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon024143317611_====="
+Date: Thu, 22 Sep 2005 06:17:27 +0800
+
+【   以下 文字 转载自   SEM . THU   讨论区   】
+发信人 :   iliuzhongqi   ( 我 爱 清华 ， 更 爱 我 的 小猪 ) ,   信 区 :   SEM . THU
+标     题 :   咨询 一个 相关 分析 的 问题
+我 看到 某 权威 期刊 上 的 一篇 论文 ，
+做 1952 到 2002 年 中国   “ GDP — — 人口 死亡率 ” 之间 的 相关性 验证
+对 数据 没有 作 任何 处理
+用 的 是 pearson 相关系数
+GDP 和 人口 死亡率 都 不是 正态分布 的 数据
+能用 pearson 相关系数 来 验证 吗 ？
+似乎 应该 用 等级 相关 分析 呀 ？

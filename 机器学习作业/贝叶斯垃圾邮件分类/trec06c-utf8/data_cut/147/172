@@ -1,0 +1,70 @@
+Received: from 126.com (m31-145.126.com [220.181.31.145])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8H4Icix019499
+	for <jin@ccert.edu.cn>; Sat, 17 Sep 2005 18:02:29 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <432B9BD7.00009F.03527@m65.126.com>
+Date: Sat, 17 Sep 2005 18:13:55 +0800 (CST)
+From: "yang" <yang@126.com>
+To: jin@ccert.edu.cn
+Subject: =?gb2312?B?06bGuCDN+MLnus3Qxc+isLLIq7y8yvXR0L6/ytKjrc34wuewssirt/4=?=
+X-Priority: 3
+X-Originating-IP: [192.168.0.52(210.82.111.212)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_EYtoCZjJoyuOhvxVmOdBsjomXPRz"
+
+个人简历
+基本 概况 ：
+姓名 ： 杨云帆 	                   性别 ： 男 	                         民族 ： 汉                                 籍贯 ： 江西 南昌
+学历 ： 大专 	 	                   毕业 院校 ： 泰山 学院
+电话 ： 13718397521
+E - mail ： yunfanyun1 @ 126 . com
+求职意向 ：
+linux 系统管理   、 系统集成 、 技术支持 / 安全 等
+计算机 技能 ：
+LINUX ：
+1 ． dns 配置   vsftp . 、 apache   web 服务器 、 sendmail 邮件 服务器 、 helix 流媒体 服务器 等 LINUX 系统 环境 下 的 服务器 配置 及 安全 管理 。
+2 ． smb , nfs   等 文件系统 共享 服务 配置 .
+3 ． linux 下   mysql   . 数据库 的 编译 和 oracle9i   . oracle10g 安装 , 维护 . 数据 的 备份 。
+4 ． linux 下 配置   apache 支持 php , jsp   .
+5 ． Linux   下 iptables   防火墙 的 熟练 配置
+6 ． Linux2.4   2.6 内核 的 编译 。
+7 ． 熟练 使用 redhat9   linux   as3   . redhat   linux   as4 . redhat   linux   fc4 .   sun   solaris9 / 10 .
+CISCO ：
+1 ． 熟悉 cisco 路由器 、 交换机 的 配置
+2 ． 在 网络 环境 中 对 cisco 路由器 进行 设备 的 安全 管理
+3 ． 熟练 使用 cisco 系列 路由器 和 交换机 ， rip   eigrp   . igrp 、 ospf ,   bgp 等 协议 的 熟练 配置
+4 ． Cisco   交换机 1900   2950   3600   3550 ( 3750 )     交换机 的 配置 , 调试 和 故障 检测 .   交换机 VLAN 的 配置 等 。
+5 ． Cisco   路由器 2600 等 配置 故障 检测 。 双机 热备 的 基本原理
+WINDOWS ：
+1 ． 具有 Webeasymail   , imal . 等 企业 常用 邮件 服务器 的 安全 管理 与 配置 。
+2 ． Window2000 . windows   2003 下域 环境 的 实现 .   组策略 的 管理 等 系统 的 安全 管理 。
+3 ． Dns   . ftp .   vpn . dhcp 等 应用服务器 配置 和 管理 。
+4 ． Windows   oracle . sqlserver . mysql 的 安装 使用 . 管理 以及 数据备份 。
+5 ． Windows2003 下 群集 的 实现 。
+其它 ：
+懂得 软件测试 的 基本原理 和 流程 .   cisco   pix 防火墙 的 工作 原理 和 基本 配置 , 有 一定 的 信息安全 基础 。
+[ 获取 证书 ]
+Cisco 认证 网络 支持 工程师 （ CCNA ）
+工作 经历 ：
+2003 ． 9 - 2005 ． 1 在 大学 期间 利用 业余时间 担任 过 网管 ， 负责 网络教室 的 管理 维护 。 参加 过 社会 实践 ， 并且 在 某 网络安全 论坛 担任 过 技术 区分 区 版主 。
+在鹏博 学习 期间 ， 参加 对 还 模拟 校园 网络系统 集成 的 竞 投标 工程 。 之后 又 参与 了 对鹏博 自身 的 网络综合 布线 工作 区 子系统 的 工作 。
+2005 月 7 月 参加 江西省 九江市 一家 大酒店 网络工程 竞标 工程
+培训 经历 ：
+2003.9 - 2004.5   利用 大学 课余时间 在 学校 参加 计算机 知识 培训 ， 并 通过 计算机 考核 。
+2004.7 月 - 9 月 于 江西 南昌 雷式 英语学校 学习 英语 ， 具备 了 一定 的 听说 基础
+2005.2 - 2005.8   　       北京 鹏博 教育
+1 、 ccna   ccnp 培训 ， 熟悉 cisco 路由器 配置 及 工作 原理 ， 及 rip .   Igrp .   Eigrp .   Ospf .   bgp   等 路由 协议 的 工作 原理 和 工作 过程 。 并 能 根据 协议 进行 路由器 的 调试 和 故障 检测 。
+2 、 oracle 、 sqlserver , mysql 数据库 服务器 的 维护 及 数据 的 备份 恢复 ， 和 故障 解决 。 数据 服务器 的 有 群集 、 远程 维护 。
+3 ． Window2000 . windows2003 系统 域 管理 的 实现 ， 有 VPN （ 虚拟 专用网 ） dhcp 服务器 ， ftp 服务器 等 应用服务器 的 实现 .
+4 ． Linux / unix 的 中高级 管理 。
+自我 评价 ：
+　 做事 实在 ， 有 敬业精神 ， 学习 能力 较强 ， 容易接受 新 知识 并 迅速 掌握 ， 善于 独立 解决问题 ， 工作 积极主动 ， 有 较 强 的 责任心 及 良好 的 团队 合作 精神
+
+
+个人简历 < br > 基本 概况 ： < br > 姓名 ： 杨云帆 	                   性别 ： 男 	                         民族 ： 汉                                 籍贯 ： 江西 南昌 < br > 学历 ： 大专 	 	                   毕业 院校 ： 泰山 学院 < br > 电话 ： 13718397521 	 < br > E - mail ： yunfanyun1 @ 126 . com 	 < br > 求职意向 ： < br > linux 系统管理   、 系统集成 、 技术支持 / 安全 等 < br > 计算机 技能 ： < br > LINUX ： < br > 1 ． dns 配置   vsftp . 、 apache   web 服务器 、 sendmail 邮件 服务器 、 helix 流媒体 服务器 等 LINUX 系统 环境 下 的 服务器 配置 及 安全 管理 。 < br > 2 ． smb , nfs   等 文件系统 共享 服务 配置 . < br > 3 ． linux 下   mysql   . 数据库 的 编译 和 oracle9i   . oracle10g 安装 , 维护 . 数据 的 备份 。 < br > 4 ． linux 下 配置   apache 支持 php , jsp   . < br > 5 ． Linux   下 iptables   防火墙 的 熟练 配置 < br > 6 ． Linux2.4   2.6 内核 的 编译 。 < br > 7 ． 熟练 使用 redhat9   linux   as3   . redhat   linux   as4 . redhat   linux   fc4 .   sun   solaris9 / 10 .   < br > CISCO ： < br > 1 ． 熟悉 cisco 路由器 、 交换机 的 配置 < br > 2 ． 在 网络 环境 中 对 cisco 路由器 进行 设备 的 安全 管理 < br > 3 ． 熟练 使用 cisco 系列 路由器 和 交换机 ， rip   eigrp   . igrp 、 ospf ,   bgp 等 协议 的 熟练 配置 < br > 4 ． Cisco   交换机 1900   2950   3600   3550 ( 3750 )     交换机 的 配置 , 调试 和 故障 检测 .   交换机 VLAN 的 配置 等 。 < br > 5 ． Cisco   路由器 2600 等 配置 故障 检测 。 双机 热备 的 基本原理 < br > WINDOWS ：   < br > 1 ． 具有 Webeasymail   , imal . 等 企业 常用 邮件 服务器 的 安全 管理 与 配置 。 < br > 2 ． Window2000 . windows   2003 下域 环境 的 实现 .   组策略 的 管理 等 系统 的 安全 管理 。 < br > 3 ． Dns   . ftp .   vpn . dhcp 等 应用服务器 配置 和 管理 。 < br > 4 ． Windows   oracle . sqlserver . mysql 的 安装 使用 . 管理 以及 数据备份 。 < br > 5 ． Windows2003 下 群集 的 实现 。 < br > 其它 ： < br > 懂得 软件测试 的 基本原理 和 流程 .   cisco   pix 防火墙 的 工作 原理 和 基本 配置 , 有 一定 的 信息安全 基础 。 < br > [ 获取 证书 ] < br > Cisco 认证 网络 支持 工程师 （ CCNA ） < br > 工作 经历 ： < br > 2003 ． 9 - 2005 ． 1 在 大学 期间 利用 业余时间 担任 过 网管 ， 负责 网络教室 的 管理 维护 。 参加 过 社会 实践 ， 并且 在 某 网络安全 论坛 担任 过 技术 区分 区 版主 。 < br > 在鹏博 学习 期间 ， 参加 对 还 模拟 校园 网络系统 集成 的 竞 投标 工程 。 之后 又 参与 了 对鹏博 自身 的 网络综合 布线 工作 区 子系统 的 工作 。 < br > 2005 月 7 月 参加 江西省 九江市 一家 大酒店 网络工程 竞标 工程 < br > 培训 经历 ： < br > 2003.9 - 2004.5   利用 大学 课余时间 在 学校 参加 计算机 知识 培训 ， 并 通过 计算机 考核 。 < br > 2004.7 月 - 9 月 于 江西 南昌 雷式 英语学校 学习 英语 ， 具备 了 一定 的 听说 基础 < br > 2005.2 - 2005.8   　       北京 鹏博 教育     < br > 1 、 ccna   ccnp 培训 ， 熟悉 cisco 路由器 配置 及 工作 原理 ， 及 rip .   Igrp .   Eigrp .   Ospf .   bgp   等 路由 协议 的 工作 原理 和 工作 过程 。 并 能 根据 协议 进行 路由器 的 调试 和 故障 检测 。 < br > 2 、 oracle 、 sqlserver , mysql 数据库 服务器 的 维护 及 数据 的 备份 恢复 ， 和 故障 解决 。 数据 服务器 的 有 群集 、 远程 维护 。 < br > 3 ． Window2000 . windows2003 系统 域 管理 的 实现 ， 有 VPN （ 虚拟 专用网 ） dhcp 服务器 ， ftp 服务器 等 应用服务器 的 实现 . < br > 4 ． Linux / unix 的 中高级 管理 。 < br > 自我 评价 ： < br > 　 做事 实在 ， 有 敬业精神 ， 学习 能力 较强 ， 容易接受 新 知识 并 迅速 掌握 ， 善于 独立 解决问题 ， 工作 积极主动 ， 有 较 强 的 责任心 及 良好 的 团队 合作 精神 < br > < br > < br > < ! - -   footer   - - > < br > < br > < br > < br > < br >
+< a   href = " http : / / www.126 . com "   target = " _ blank "   style = " font - size : 14.8 px ; line - height : 160% ; color : blue " >
+需要 一个 < span   style = " color : red " > 2280 兆 的 免费 < / span > 邮箱 吗 ？
+< br >
+网易 免费邮箱 是 < span   style = " color : red " > 中国 最多人 使用 < / span > 的 电子邮箱 。
+< / a >
+

@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85N8vaC021132
+	for <su@ccert.edu.cn>; Thu, 8 Sep 2005 06:28:37 +0800 (CST)
+Received: (eyou send program); Thu, 8 Sep 2005 06:27:14 +0800
+Message-ID: <325961654.08775@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 8 Sep 2005 06:27:14 +0800
+Message-ID: <325961654.08757@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 8 Sep 2005 06:27:14 +0800
+From: ou@mail.tsinghua.edu.cn
+To: su@ccert.edu.cn
+Cc: jin@ccert.edu.cn
+Date: Thu, 8 Sep 2005 06:27:14 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW8r90addudjT2rjFwsq1xMG9tcDQoczifs+jzfvT0MjLxNyw787SveK+9rX0fg==?=
+Content-Type: text/plain
+
+我 的 数学 不是 很 好 , 自己 现在 在 复习 关于 概率 的 基础 部分   现有 两道 小 题 不太会 做 ~ 因为 自己 的 答案 和 标准答案 不 一样 ~
+1 : 设有 一架 长机 两架 僚机 飞往 某 目的地 进行 轰炸 , 由于 只有 长机 装有 导航 设备 , 因此 僚机 不能 单独 到达 目的地 , 并 在 飞行 途中 要 经过 敌方 高射炮 防御 地带 , 每机 被 击落 的 概率 是 0.2 . 到达 目的地 之后 , 各 机 独立 轰炸 , 每机 炸 中 目标 的 概率 是 0.3 . 求 目标 被 炸 中 的 概率 ~
+2 : 设甲 , 乙 两 篮球 运动员 投篮 命中率 分别 为 0.7 和 0.6 . 每人 投篮 3 次 , 求 两人 进球数 相等 时 的 概率 ~
+标准答案 : 1 :         0.477
+2 :         0.32
+请求 正 解 ~ ~

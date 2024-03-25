@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <xin@ccert.edu.cn>; Mon, 15 Aug 2005 16:56:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <xin@ccert.edu.cn>; Mon, 15 Aug 2005 17:09:31 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 17:04:26 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 17:04:26 +0800
+From: zheng@mail.tsinghua.edu.cn
+To: xin@ccert.edu.cn
+Date: Mon, 15 Aug 2005 17:04:26 +0800
+Reply-To: zheng@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfzvsijrNK7tcDQodGnyv3Rp8zi?=
+Content-Type: text/plain
+
+队伍 长度
+[ - - - - - - - - - - - - ]
+0
+队伍 前进 到 这
+[ - - - - - - - - - - - - ] [ - - - - - - - - - - - - ]
+x
+0 - - - - - - - - - - - - - - - - - |
+0 - - - |
+方程 ：
+100 + x                 x
+- - - - - - - - - -     =   - - - - - - - - - - -
+x                     100 - x
+x = 50 * sqrt ( 2 )
+通讯兵 走 了 100 + 2x ＝ 100 （ 1 + sqrt （ 2 ） ）
+
+一条 长 100 米 的 队伍 在 向前 行走 ， 队伍 末端 有个 通讯兵 向 队伍 头端 跑 去 ， 当跑 到头 端的 时候 再 折回 跑 回 末端 ， 当 同学 兵 跑 回 末端 的 时候 ， 整个 队伍 刚好 行走 了 100 米 ， 现求 ： 通讯兵 一共 跑 了 多少 米 ？

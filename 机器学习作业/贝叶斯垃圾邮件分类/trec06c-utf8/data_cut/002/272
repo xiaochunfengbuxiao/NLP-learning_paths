@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <cen@ccert.edu.cn>; Mon, 15 Aug 2005 13:05:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <cen@ccert.edu.cn>; Mon, 15 Aug 2005 13:18:35 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 13:13:30 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 13:13:30 +0800
+From: zhan@mail.tsinghua.edu.cn
+To: cen@ccert.edu.cn
+Date: Mon, 15 Aug 2005 13:13:30 +0800
+Reply-To: zhan@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INXiw7TIyMTWLLDvztK/tNK7tcDC37ytzOKwyQ==?=
+Content-Type: text/plain
+
+9 月 1 日 ， 肯定 是 标准答案
+小明 和 小强 都 是 张老师 的 学生 ， 张老师 的 生日 是 M 月 N 日 ，
+2 人 都 知道 张老师 的 生日 是 下列 10 组中 的 一天 ，
+张老师 把 M 值 告诉 了 小明 ， 把 N 值 告诉 了 小强 ，
+张老师 问 他们 知道 他 的 生日 是 那 一天 吗 ？
+M           N
+3     月   4   日
+3     月   5   日
+3     月   8   日
+6     月   4   日
+6     月   7   日     -
+9     月   1   日
+9     月   5   日
+12   月   1   日
+12   月   2   日     -
+12   月   8   日
+小 明说 ： 如果 我 不 知道 的话 ， 小强 肯定 也 不 知道
+小强 说 ： 本来 我 也 不 知道 ， 但是 现在 我 知道 了
+小 明说 ： 哦 ， 那 我 也 知道 了
+请 根据 以上 对话 推断出 张老师 的 生日 是 哪一天

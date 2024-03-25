@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EBDbnN008658
+	for <xing@ccert.edu.cn>; Wed, 17 Aug 2005 18:43:09 +0800 (CST)
+Received: (eyou send program); Wed, 17 Aug 2005 18:51:35 +0800
+Message-ID: <324018523.18139@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 17 Aug 2005 18:51:35 +0800
+Message-ID: <324018523.18120@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 17 Aug 2005 18:51:35 +0800
+From: tu@mail.tsinghua.edu.cn
+To: xing@ccert.edu.cn
+Cc: zhan@ccert.edu.cn
+Date: Wed, 17 Aug 2005 18:51:35 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfzvsijrNK7tcDQodGnyv3Rp8zi?=
+Content-Type: text/plain
+
+正 解
+这 算是 最 简单 的 算法 了
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+这 需要 讨论 这么久 ？
+大致 算了 一下 ， 是 241.4 吧
+这么 多人算出 300 ？ 怎么 可能 ， 队伍 可是 一直 在 前进 呢
+假设 小兵 跑 到 队伍 前端 时 队伍 前进 了 L ， 很 容易 看到
+( 100 - L ) / L = L / ( 100 + L )
+算出 L ， 小兵 前进 的 总 距离 就是 100 + 2L ， L 大概 是 70.7 左右 吧
+这 需要 讨论 这么久 ？
+大致 算了 一下 ， 是 241.4 吧
+这么 多人算出 300 ？ 怎么 可能 ， 队伍 可是 一直 在 前进 呢

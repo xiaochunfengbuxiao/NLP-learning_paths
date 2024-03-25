@@ -1,0 +1,64 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7F5seeW013938
+	for <zhong@ccert.edu.cn>; Fri, 19 Aug 2005 18:27:54 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7F6S7Cu010058
+	for <zhong@ccert.edu.cn>; Fri, 19 Aug 2005 19:01:21 +0800
+Message-Id: <200508150628.j7F6S7Cu010058@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 18:42:21 +0800
+From: "tao" <tao@mail.nisac.gov.cn>
+Reply-To: tao@mail.nisac.gov.cn
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0Ma4ob+y4srUuaSzzMqmoaJMaW51eCC/qreiuaSzzMqmvLCyoba+t9bO9rmks8zKpg==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+Anchiva   Systems ,   Inc . 以 开发 和 销售 顶尖 内容 过滤 网络安全 系统 与 应用软件 为主 业 。   公司 由 angel   VCs   创立 。 angel   VCs   同时 也 是   Netscreen 的 早期 创始人 ， 并 将 其 引领 至 一个 巨大成功 的 位置 （ 在 2001 年 成为 IPO 并 在 2004 年 以 40 亿 美圆 的 价格 被 Juniper   收购 ） 。   Anchiva   于 2004 年 10 月 组立 ， 坐落 在 加利福尼亚 的 Sunnyvale   。
+我们 拥有 在 安全 , 加密 , 反病毒 , 反 垃圾邮件 , 内容 过滤 方面 的 专家 经验 ， 利用 这些 经验 以及 我们 的 软件 , 系统 架构 , 技术 , 解决方案 来 使 我们 的 客户 网络 免受 大面积 的 网络安全 威胁 , 无论是 来自 内部 还是 外部 的 .   这 类 保障 在 外围设备 上 提供 如同 内部 网关 一般 达到最佳 的 性能 。   在 出色 的 技术 能力 ， 专业 的 操作 以及 可 升级 的 标准化 基础 的 平台 的 相互作用 下 ， 我们 的 产品 性能 远 优于 目前 所指 的 同类产品 或 同行业 中 的 其他 产品 。 我们 的 解决方案 着眼于 市场 的 各个 层面 ， 从 SMBs ， 中 大型 企业 到 服务提供商 和 供货商 。
+职位 ： 测试 工程师     （ 人数 ： 3 人 ）
+基本素质 要求 ：
+*   大学本科 以上学历 ， 计算机相关 专业 毕业 ；
+*   沟通 能力 强 ， 有 团队 合作 精神 ；
+*   学习 及 自学能力 强 ；
+*   英语 4 级 或 以上 水平 ， 能够 熟练 阅读 英文 手册 及 文章 。
+技术 要求 ：
+1 、 熟悉 测试 流程 ， 能 根据 软件 需求 说明书 或 规格 说明书 编写 测试计划 、 测试用例
+2 、 熟悉 TCP / IP 协议 ， 了解 网络安全 设备 工作 原理 及 配置
+3 、 熟悉 网络应用 、 网络安全 技术
+4 、 熟悉 linux 系统
+5 、 具有 网络安全 产品 测试 经验
+职位 ： Linux   开发 工程师     （ 人数 ： 3 人 ）
+基本素质 要求 ：
+*   大学本科 以上学历 ， 计算机相关 专业 毕业 ；
+*   沟通 能力 强 ， 有 团队 合作 精神 ；
+*   学习 及 自学能力 强 ；
+*   英语 4 级 或 以上 水平 ， 能够 熟练 阅读 英文 手册 及 文章 。
+技术 要求 ：
+1 、 2 年 以上 Linux 下 C / C++ 语言 开发 经验 ；
+2 、 熟悉 互联网协议 ， 有 TCP / IP 相关 协议 开发 经验 ；
+3 、 有 1 年 以上 安全 产品开发 经验 ， 防火墙 ， SSL   VPN 等
+4 、 精通 SSL / TLS 协议 ；
+5 、 熟悉 unix / linux / BSD 操作系统 ；
+6 、 熟悉 Radis ， LDAP ， Active   Directory 协议 ；
+7 、 有 上述 相关 项目 的 开发 经验 ， 且 担任 过 项目 组织 责任者 优先 ；
+职位 ： 病毒 分析 工程师     （ 人数 ： 2 人 ）
+职位 描述 ： 从事 病毒 分析 和 研究 工作
+基本素质 要求 ：
+*   大学本科 以上学历 ， 计算机相关 专业 毕业 ；
+*   沟通 能力 强 ， 有 团队 合作 精神 ；
+*   学习 及 自学能力 强 ；
+*   英语 4 级 或 以上 水平 ， 能够 熟练 阅读 英文 手册 及 文章 。
+技术 要求 ：
+1 、 了解 病毒 和 反病毒 软件 的 基本原理
+2 、 熟悉 Windows 操作系统 的 基本原理
+3 、 能 熟练 使用 静态 反汇编 工具 （ 如 IDA ） 和 动态 调试 工具 （ 如 SoftICE ）
+4 、 有 一年 以上 病毒 分析 经验 、 一年 以上 C / C++ 开发 经验 。
+待遇 从优 ， 具体 面议
+公司 网站 ： www . anchiva . com
+公司地址 ： 清华大学 学研 大厦
+有意者 请 将 个人简历 发送至     hr @ anchiva . com . cn

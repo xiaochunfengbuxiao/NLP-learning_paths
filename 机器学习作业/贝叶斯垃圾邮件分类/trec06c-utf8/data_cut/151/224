@@ -1,0 +1,31 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G3hMU7010661
+	for <hua@ccert.edu.cn>; Sun, 18 Sep 2005 15:05:21 +0800 (CST)
+Message-ID: <200509161143.j8G3hMU7010661@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO b28d91f81b7b43f) (yang-w04@166.111.203.126)
+  by localhost with SMTP; Sun, 18 Sep 2005 06:51:09 -0000
+From: "che" <che@mails.tsinghua.edu.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzuOe0873jx+u9zLy4tcDQxbrFzOIssqKzq9Lps8nBotDFusXT68+1zbPOyszizNbC28f4?=
+Date: Sun, 18 Sep 2005 15:19:58 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6axz0VIoH4GpYSpe3bXS01wjyWgAB5Aww
+In-Reply-To: <00b001c5ba6a$64ccf2e0$26cb6fa6@liuwu>
+
+呀 呵 ， 这题 我 咋 看着 这么 眼熟 捏 ？
+问题 一 :
+为 使 带 通信 号 以 尽量 小 的 群 延迟 无失 真的 通过 理想 带通 系统 , 则 要求 其带 内 幅频特性 为 常数 , 相频 为 过 在 频 的 点 的 负 斜率 直线 , . 该 结论 与 信号 的 无 失真 传输 ( 幅频 常数 , 相频 过 零点 直线 ) 不 一致 . 二者 是否 矛盾 ? 怎样 推倒 给出 详细 解释 ?
+郑 的 书上 没有 呀 ?   我 也 看不出来 , 恳请 各位 解答
+问题 二
+判断
+1 . 不含 直流 分量 的 信号 的 希尔 拨特 变换 是 全通 系统 ?
+2 . 两个 最小 相移 系统 的 级联 一定 是 最小 相移 系统 ?
+3 希尔伯特 变换 的 等价 系统 为 全通 系统 ?
+4 延迟 为 T 的 连续 时间 线形 时 不变 系统 是 最小 相移 系统 ?
+5 全通 系统 是 不可 实现 系统 ?
+说出 你们 的 理由 ?

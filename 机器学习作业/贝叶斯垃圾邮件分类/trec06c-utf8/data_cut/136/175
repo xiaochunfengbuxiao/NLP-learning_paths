@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <cai@ccert.edu.cn>; Thu, 15 Sep 2005 17:25:03 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <cai@ccert.edu.cn>; Thu, 15 Sep 2005 17:36:58 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 09:19:15 -0000
+From: "yun" <yun@mail.tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Cc: <cao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyPXOytK7uPZtYXRsYWK94rfHz9/Q1Le9s8y1xLLZ1/ehraGtICjXqtTYKQ==?=
+Date: Thu, 15 Sep 2005 17:36:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+【   以下 文字 转载自   MathTools   讨论区   】
+发信人 :   sylph   ( 空气 精灵 ) ,   信 区 :   MathTools
+标     题 :   弱 问 一个 matlab 解 非线性 方程 的 操作 … …
+有 一个 非线性 方程 ， 除了 自变量 x
+还有 一个 参数 t
+我 希望 依次 解出 t ＝ 300 ： 1 ： 400 时候 的 解 x
+方程 中 其他 系数 都 是 数值 ， 没有 符号
+请问 命令 应该 怎么 写 ？
+我 无论 定义 t 是 数值 变量 还是 符号 变量
+用 命令 solve ( \ ' ( 5 - x ) / 10000 = 1.6 e - 17 * exp ( 1.1594 e4 * x / t ) \ ' , \ ' x \ ' )
+作出 来 都 是 带 着 t 的 符号 解
+请问 这个 t 我 应该 怎么 定义
+才能 用 solve 解出 这 100 个 x 的 数值 解 ?

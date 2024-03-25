@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <chi@ccert.edu.cn>; Sun, 18 Sep 2005 21:07:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <chi@ccert.edu.cn>; Sun, 18 Sep 2005 21:18:54 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 18 Sep 2005 12:59:36 -0000
+From: "gong" <gong@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <cen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7K0ru1wNDFusW4tcGi0rax5Lu7tcTQoc7KzOI=?=
+Date: Sun, 18 Sep 2005 21:18:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+郑书 P122
+用 矩形脉冲 取 极限 求 u ( t ) 傅立叶 变换 的 时候
+F [ u ( t ) ] = lim     { F [ u ( t ) - u ( t - τ ) ] }
+τ - & gt ; ∞
+= lim   [ ( 1 / j ω ) - ( 1 / j ω ) e ^ ( - j ω τ ) ] · · · · · · · · · · · · · · · · · ( 1 )
+τ - & gt ; ∞
+= ( 1 / j ω ) - lim   [ cos ( ω t ) / j ω - sin ( ω t ) / ω ] · · · · · · · · · · · · · ( 2 )
+τ - & gt ; ∞                   ~ ~ ~ w ＝ 0 得话 ， 这个 地方 也 不行 了 吧 ？
+∵ lim   cos ( ω t ) = 0       lim   ( τ / π ) Sa ( ω t ) = δ ( ω )       ∴ 结果 ＝ ( 1 / j ω ) ＋ π δ ( ω )
+问题 “ ∵ ” 后面 的 两个 条件 是 第二章 80 － 81 页 分配 函数 里 证明 过 的 ， 可以 理解
+但 那里 同时 也 证 了 lim   e ^ ( - j ω τ ) ＝ 0 ， 为什么 在 ( 1 ） 式 时候 不 带进去 呢 ？
+为什么 要 分开 成 ( 2 ) 式 呢 ？ ( 万一 ： w ＝ 0 怎么办 ？ ？ ）
+
